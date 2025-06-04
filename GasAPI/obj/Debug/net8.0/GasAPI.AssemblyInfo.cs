@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GasAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d0b823350f2830a98292c64bfeaa67891f78813")]
 [assembly: System.Reflection.AssemblyProductAttribute("GasAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GasAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

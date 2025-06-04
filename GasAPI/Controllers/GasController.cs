@@ -20,6 +20,26 @@ namespace GasAPI.Controllers
             new Gas { Name = "Benzine", MinLevel = 0.05, MaxLevel = 0.15 }
         };
 
+        [HttpPost("check")]
+        public ActionResult<string> CheckGasLevel([FromBody] GasLevelInput input)
+        {
+            var gas = Gases.FirstOrDefault(g => g.Name.Equals(input.Name, StringComparison.OrdinalIgnoreCase));
+
+            if (gas == null)
+                return NotFound($"Gas '{input.Name}' not found.");
+
+            string status;
+
+            if (input.Level > gas.MaxLevel)
+                status = "DANGER";
+            else if (input.Level >= gas.MinLevel && input.Level <= gas.MaxLevel)
+                status = "CAUTION";
+            else
+                status = "SAFE";
+
+            return Ok($"Gas: {gas.Name}, Level: {input.Level}, Status: {status}");
+        }
+
         [HttpGet]
         public ActionResult<IEnumerable<Gas>> GetAllGases()
         {
