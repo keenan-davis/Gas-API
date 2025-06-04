@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\GasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1275EE-933E-49D3-9C7A-39E9146A6B43}|GasAPI\\GasAPI.csproj|c:\\users\\lab_services_student\\source\\repos\\gasapi\\gasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1275EE-933E-49D3-9C7A-39E9146A6B43}|GasAPI\\GasAPI.csproj|solutionrelative:gasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1275EE-933E-49D3-9C7A-39E9146A6B43}|GasAPI\\GasAPI.csproj|c:\\users\\lab_services_student\\source\\repos\\gasapi\\gasapi\\controllers\\gascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1275EE-933E-49D3-9C7A-39E9146A6B43}|GasAPI\\GasAPI.csproj|solutionrelative:gasapi\\controllers\\gascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1275EE-933E-49D3-9C7A-39E9146A6B43}|GasAPI\\GasAPI.csproj|c:\\users\\lab_services_student\\source\\repos\\gasapi\\gasapi\\models\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1275EE-933E-49D3-9C7A-39E9146A6B43}|GasAPI\\GasAPI.csproj|solutionrelative:gasapi\\models\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GasController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\GasAPI\\GasAPI\\Controllers\\GasController.cs",
+              "RelativeDocumentMoniker": "GasAPI\\Controllers\\GasController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\GasAPI\\GasAPI\\Controllers\\GasController.cs",
+              "RelativeToolTip": "GasAPI\\Controllers\\GasController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:43:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gas.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\GasAPI\\GasAPI\\Models\\Gas.cs",
+              "RelativeDocumentMoniker": "GasAPI\\Models\\Gas.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\GasAPI\\GasAPI\\Models\\Gas.cs",
+              "RelativeToolTip": "GasAPI\\Models\\Gas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:41:08.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\GasAPI\\GasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GasAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\GasAPI\\GasAPI\\Program.cs",
+              "RelativeToolTip": "GasAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:37:28.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

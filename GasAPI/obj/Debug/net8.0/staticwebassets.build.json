@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OJk4NKh2nPCg8YCYQElGsW2dHkrNvg5iSc5ADFDg0is=",
+  "Source": "GasAPI",
+  "BasePath": "_content/GasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
